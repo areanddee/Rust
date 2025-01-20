@@ -1,0 +1,10 @@
+[package]
+name = "matrix_bench"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = "0.15"
+rayon = "1.7"
+rand = "0.8"
+
